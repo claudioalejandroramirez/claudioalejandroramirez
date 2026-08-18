@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,70:0077b6,100:00b4d8&height=220&section=header&text=Claudio%20Ramirez&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Principal%20AI%20Solutions%20Architect%20%7C%20AI%20CoE%20%7C%20Multicloud%20%7C%20AWS%20%26%20Azure%20Certified&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Principal+AI+Solutions+Architect+%7C+AI+CoE;LLMs+%7C+RAG+Pipelines+%7C+Autonomous+Agents;Multicloud+Architect+%7C+AWS+%7C+GCP+%7C+Azure;15%2B+years+turning+infrastructure+into+intelligence;Bridging+business+strategy+%26+AI+engineering)](https://git.io/typing-svg)
