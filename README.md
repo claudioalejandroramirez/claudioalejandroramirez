@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,70:0077b6,100:00b4d8&height=220&section=header&text=Claudio%20Ramirez&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Solutions%20Architect%20%7C%20Multicloud%20%7C%20Data%20%7C%20AI&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,70:0077b6,100:00b4d8&height=220&section=header&text=Claudio%20Ramirez&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Principal%20AI%20Solutions%20Architect%20%7C%20AI%20CoE%20%7C%20Multicloud%20%7C%20AWS%20%26%20Azure%20Certified&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=15%2B+years+turning+infrastructure+into+architecture;Multicloud+%7C+AWS+%7C+GCP+%7C+Azure;Data+Engineering+%7C+ETL+%7C+Pipelines;AI+%26+LLM+enthusiast+%F0%9F%A4%96;Building+bridges+between+business+%26+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Principal+AI+Solutions+Architect+%7C+AI+CoE;LLMs+%7C+RAG+Pipelines+%7C+Autonomous+Agents;Multicloud+Architect+%7C+AWS+%7C+GCP+%7C+Azure;15%2B+years+turning+infrastructure+into+intelligence;Bridging+business+strategy+%26+AI+engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,8 +18,9 @@
 
 ```yaml
 name:        Claudio Alejandro Garate Ramirez Filho
-role:        Solutions & Data Architect
-experience:  15+ years in IT  |  3 years in Architecture
+role:        Principal AI Solutions Architect | AI CoE
+company:     Assaí Atacadista
+experience:  15+ years in IT  |  5+ years in Architecture
 cloud:       AWS ★★★  |  GCP ★★★  |  Azure ★★
 certs:       AWS Solutions Architect Associate
              AWS Cloud Practitioner
@@ -28,7 +29,7 @@ education:   Postgrad · Data Engineering – PUC Minas
              BSc Software Engineering – Anhanguera
              BA Philosophy – Faculdade Dehoniana
 languages:   Spanish (native) · English (advanced) · Italian (professional)
-focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
+focus_2026:  AI Harness Architecture · LLMs · RAG · Autonomous Agents · AI CoE
 ```
 
 ---
@@ -36,6 +37,14 @@ focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
 ## ⚡ &nbsp; Tech Stack
 
 <div align="center">
+
+**🤖 AI & LLM Architecture**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **☁️ Cloud & Infra**
 
@@ -64,13 +73,6 @@ focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**🤖 AI & Emerging — In Progress**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 </div>
 
 ---
@@ -81,8 +83,9 @@ focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
 
 | Project | Role | Highlights |
 |---|---|---|
-| 🚇 **BYD – SP Metro Line 17 (SkyRail)** | Tech Lead Architect | Hyperconverged infra · SIMEA · Design Review delivered |
-| 📡 **Vivo/Telefônica – BMC** | Solutions Architect | Security hardening · Patch automation · **Go Live delivered** |
+| 🤖 **Assaí Atacadista – AI CoE Platform** | Principal AI Solutions Architect | AI harness design · LLM integrations · RAG pipelines · Autonomous agents · Cross-team alignment |
+| 🚇 **BYD – SP Metro Line 17 (SkyRail L17)** | Tech Lead Architect | Hyperconverged infra · SIMEA · Control room data center · Architecture delivered |
+| 📡 **Vivo/Telefônica – BMC** | Solutions Architect | Security hardening · Patch automation (thousands of hosts) · **Go Live delivered** |
 | 🗳️ **Exame/BTG – Election Coverage** | Cloud Architect | Multi-AZ/region AWS+GCP · EKS · ECS Fargate · Zero downtime |
 | 📊 **BTG – Data Modernization** | Data Architect | GCP migration · Airflow · Pub/Sub · BigQuery · FinOps |
 | 🤖 **BTG – Omnichannel AI** | Solutions Architect | AI chatbots + legacy telephony (Cisco URA) integration |
@@ -112,10 +115,11 @@ focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
 <div align="center">
 
 ```
+🤖 AI CoE Leadership          │   Harness design · LLMs · RAG · Autonomous agents at enterprise scale
 🧠 Business ↔ Tech Bridge    │   C-level stakeholders → engineering decisions
 💰 FinOps Mindset             │   Cost-efficiency baked into architecture from day 1
 🔐 Security-First             │   Hardening · EDR/DLP · IAM · KMS · TLS
-🤖 AI Integration             │   Hybrid AI architectures · Expanding into LLMs
+☁️ Multicloud Depth           │   AWS ★★★ certified  ·  GCP ★★★  ·  Azure ★★ certified
 📖 Philosophy Degree          │   Structured thinking · The right questions first
 🌍 Trilingual                 │   ES (native) · EN (advanced) · IT (professional)
 ```
@@ -132,8 +136,9 @@ focus_2025:  AI/LLM Architectures · Data Platforms · Cloud-native
 
 ```yaml
 nome:        Claudio Alejandro Garate Ramirez Filho
-cargo:       Arquiteto de Soluções e Dados
-experiência: 15+ anos em TI  |  3 anos em Arquitetura
+cargo:       Principal AI Solutions Architect | AI CoE
+empresa:     Assaí Atacadista
+experiência: 15+ anos em TI  |  5+ anos em Arquitetura
 nuvem:       AWS ★★★  |  GCP ★★★  |  Azure ★★
 certs:       AWS Solutions Architect Associate
              AWS Cloud Practitioner
@@ -142,7 +147,7 @@ formação:    Pós-graduação · Engenharia de Dados – PUC Minas
              Engenharia de Software – Anhanguera
              Bacharelado em Filosofia – Faculdade Dehoniana
 idiomas:     Espanhol (nativo) · Inglês (avançado) · Italiano (profissional)
-foco_2025:   Arquiteturas AI/LLM · Plataformas de Dados · Cloud-native
+foco_2026:   Arquitetura de IA · LLMs · RAG · Agentes Autônomos · AI CoE
 ```
 
 ---
@@ -150,6 +155,14 @@ foco_2025:   Arquiteturas AI/LLM · Plataformas de Dados · Cloud-native
 ## ⚡ &nbsp; Stack Técnica
 
 <div align="center">
+
+**🤖 IA & Arquitetura LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **☁️ Cloud & Infra**
 
@@ -178,13 +191,6 @@ foco_2025:   Arquiteturas AI/LLM · Plataformas de Dados · Cloud-native
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**🤖 IA & Tecnologias Emergentes — Em desenvolvimento**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 </div>
 
 ---
@@ -195,8 +201,9 @@ foco_2025:   Arquiteturas AI/LLM · Plataformas de Dados · Cloud-native
 
 | Projeto | Papel | Destaques |
 |---|---|---|
-| 🚇 **BYD – Metrô SP Linha 17 (SkyRail)** | Líder Técnico | Infra hiperconvergente · SIMEA · Design Review entregue |
-| 📡 **Vivo/Telefônica – BMC** | Arquiteto de Soluções | Hardening · Automação de patches · **Go Live entregue** |
+| 🤖 **Assaí Atacadista – Plataforma AI CoE** | Principal AI Solutions Architect | Design do harness de IA · Integrações LLM · Pipelines RAG · Agentes autônomos · Alinhamento cross-team |
+| 🚇 **BYD – Metrô SP Linha 17 (SkyRail L17)** | Líder Técnico | Infra hiperconvergente · SIMEA · Data center sala de controle · Arquitetura entregue |
+| 📡 **Vivo/Telefônica – BMC** | Arquiteto de Soluções | Hardening · Automação de patches (milhares de hosts) · **Go Live entregue** |
 | 🗳️ **Exame/BTG – Cobertura de Eleições** | Arquiteto Cloud | Multi-AZ/region AWS+GCP · EKS · ECS Fargate · Zero downtime |
 | 📊 **BTG – Modernização de Dados** | Arquiteto de Dados | Migração GCP · Airflow · Pub/Sub · BigQuery · FinOps |
 | 🤖 **BTG – IA Omnichannel** | Arquiteto de Soluções | Chatbots com IA + telefonia legada (Cisco URA) via API |
@@ -211,10 +218,11 @@ foco_2025:   Arquiteturas AI/LLM · Plataformas de Dados · Cloud-native
 <div align="center">
 
 ```
+🤖 Liderança AI CoE            │   Harness de IA · LLMs · RAG · Agentes autônomos em escala enterprise
 🧠 Ponte Negócio ↔ Técnica    │   Stakeholders C-level → decisões de engenharia
 💰 Visão FinOps                │   Eficiência de custos no DNA da arquitetura
 🔐 Segurança em Primeiro Lugar │   Hardening · EDR/DLP · IAM · KMS · TLS
-🤖 Integração com IA           │   Arquiteturas híbridas · Expansão para LLMs
+☁️ Profundidade Multicloud     │   AWS ★★★ certificado  ·  GCP ★★★  ·  Azure ★★ certificado
 📖 Bacharel em Filosofia        │   Pensamento estruturado · As perguntas certas
 🌍 Trilíngue                   │   ES (nativo) · EN (avançado) · IT (profissional)
 ```
